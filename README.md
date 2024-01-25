@@ -1,4 +1,4 @@
-## Combintion Sum
+## Combination Sum
 
 ##### The combinationSum function is designed to find all unique combinations of numbers from the given candidates array that add up to the specified target. It utilizes backtracking and recursive techniques to explore different possibilities while maintaining a buffer to keep track of the current combination being constructed. If the buffer's sum equals the target, the combination is stored in the result array.
 
